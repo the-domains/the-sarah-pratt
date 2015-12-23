@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Sarah Pratt]]></title>
+        <description><![CDATA[The Sarah Pratt]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 23 Dec 2015 21:28:42 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome!]]></title>
+            <description><![CDATA[<article><h1>Welcome!</h1><p>Thanks for visiting my website!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/65a3c148-503a-468c-bdd6-01d5b20a9b26.png"></article>]]></description>
+            <link>undefinedwelcome/index.html</link>
+            <guid isPermaLink="false">e690b0b1-35ff-4fdc-8b36-f2f856b79209</guid>
+            <pubDate>Wed, 23 Dec 2015 21:28:34 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
