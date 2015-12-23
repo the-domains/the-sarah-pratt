@@ -1,0 +1,28 @@
+name: The Sarah Pratt
+favicon: null
+layout_spectrum: 0.29313914757221937
+typography_spectrum: 0.7586891129612923
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.4825029531493783
+  lightness: 0.9005802173633128
+  saturation: 0.3183079147711396
+  rhythmicContrast: 0.5166683588176966
+purpose: []
