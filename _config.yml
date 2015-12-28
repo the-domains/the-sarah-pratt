@@ -1,6 +1,6 @@
 name: The Sarah Pratt
 favicon: null
-layout_spectrum: 0.57104
+layout_spectrum: 0.88597
 typography_spectrum: 0.50734
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#94d1e3'
     - '#013940'
   brandStrength: 0.5
-  lightness: 0.4375
-  saturation: 0.6875
-  rhythmicContrast: 0.75
+  lightness: 0.5
+  saturation: 0.25
+  rhythmicContrast: 0.5
 purpose: []
