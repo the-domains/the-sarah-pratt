@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[The Sarah Pratt]]></title>
         <description><![CDATA[The Sarah Pratt]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-sarah-pratt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Dec 2015 21:28:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 28 Dec 2015 16:29:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-sarah-pratt/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Next up]]></title>
+            <description><![CDATA[<article><h1>Next up</h1><p>sneak peek on what I'm working on</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/005fcec53088cf998bebca22ae401b5ca70ad9f9.png"></article>]]></description>
+            <link>https://thegrid.ai/the-sarah-pratt/next-up/index.html</link>
+            <guid isPermaLink="false">95255878-42fa-4a08-8da3-3d3d234c044a</guid>
+            <pubDate>Mon, 28 Dec 2015 16:29:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Welcome!]]></title>
-            <description><![CDATA[<article><h1>Welcome!</h1><p>Thanks for visiting my website!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/65a3c148-503a-468c-bdd6-01d5b20a9b26.png"></article>]]></description>
-            <link>undefinedwelcome/index.html</link>
+            <description><![CDATA[<article><h1>Welcome!</h1><p>Thanks for visiting my website!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/efa86fed6029644d7fd66ce4baa7c0bfe9d63381.png"></article>]]></description>
+            <link>https://thegrid.ai/the-sarah-pratt/welcome/index.html</link>
             <guid isPermaLink="false">e690b0b1-35ff-4fdc-8b36-f2f856b79209</guid>
             <pubDate>Wed, 23 Dec 2015 21:28:34 GMT</pubDate>
         </item>
